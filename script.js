@@ -5,7 +5,7 @@ button.addEventListener('click', function () {
     getJoke();
 });
 
-window.addEventListener("load", getJoke());
+window.addEventListener('load', getJoke());
 
 var paragraph = document.getElementById('joke');
 
